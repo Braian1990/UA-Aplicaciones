@@ -2,7 +2,7 @@
 
 
 SET VERIFY OFF
-fdfdsad
+fdfdsadddsjaldjaskljdksajdkjs
 WHENEVER SQLERROR EXIT FAILURE ROLLBACK;
 spool XX_AR_CARD_CONCILIATION_PKB.log
 
